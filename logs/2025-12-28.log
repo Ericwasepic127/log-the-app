@@ -1,0 +1,68 @@
+File c:\Users\erkhemee\Python files\GitHub repo\log-the-app\log.py: 2025-12-28 22:38:56 [ERROR]: ---
+Traceback (most recent call last):
+  File "c:\Users\erkhemee\Python files\GitHub repo\log-the-app\log.py", line 31, in <module>
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+---File c:\Users\erkhemee\Python files\GitHub repo\log-the-app\log.py: 2025-12-28 22:39:22 [ERROR]: ---
+Traceback (most recent call last):
+  File "c:\Users\erkhemee\Python files\GitHub repo\log-the-app\log.py", line 31, in <module>
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+---File c:\Users\erkhemee\Python files\GitHub repo\log-the-app\log.py: 2025-12-28 22:39:41 [ERROR]: ---
+Traceback (most recent call last):
+  File "c:\Users\erkhemee\Python files\GitHub repo\log-the-app\log.py", line 31, in <module>
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+---
+File c:\Users\erkhemee\Python files\GitHub repo\log-the-app\log.py: 2025-12-28 22:40:03 [ERROR]: ---
+Traceback (most recent call last):
+  File "c:\Users\erkhemee\Python files\GitHub repo\log-the-app\log.py", line 31, in <module>
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+---
+
+File c:\Users\erkhemee\Python files\GitHub repo\log-the-app\log.py: 2025-12-28 22:40:28 [ERROR]: ---
+Traceback (most recent call last):
+  File "c:\Users\erkhemee\Python files\GitHub repo\log-the-app\log.py", line 31, in <module>
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+---
+
+File c:\Users\erkhemee\Python files\GitHub repo\log-the-app\log.py: 2025-12-28 22:40:28 [ERROR]: ---
+Traceback (most recent call last):
+  File "c:\Users\erkhemee\Python files\GitHub repo\log-the-app\log.py", line 31, in <module>
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+---
+
+File c:\Users\erkhemee\Python files\GitHub repo\log-the-app\log.py: 2025-12-28 22:40:29 [ERROR]: ---
+Traceback (most recent call last):
+  File "c:\Users\erkhemee\Python files\GitHub repo\log-the-app\log.py", line 31, in <module>
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+---
+
+File c:\Users\erkhemee\Python files\GitHub repo\log-the-app\log.py: 2025-12-28 22:41:09 [ERROR]: 
+---
+Traceback (most recent call last):
+  File "c:\Users\erkhemee\Python files\GitHub repo\log-the-app\log.py", line 31, in <module>
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+---
+
+File c:\Users\erkhemee\Python files\GitHub repo\log-the-app\log.py: 2025-12-28 22:41:22 [ERROR]: 
+'''
+Traceback (most recent call last):
+  File "c:\Users\erkhemee\Python files\GitHub repo\log-the-app\log.py", line 31, in <module>
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+'''
