@@ -69,3 +69,6 @@ SOFTWARE.**
 **FAQ:**
 - *Where is log saved?*
   The log is in `folder logs`, on same location of file that created. Logs sorted by date. 
+## Creators: 
+**Ericwasepic127**
+![Ericwasepic127's logo](https://ericwasepic127.github.io/logo.png)
